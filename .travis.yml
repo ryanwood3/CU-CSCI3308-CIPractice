@@ -2,6 +2,7 @@ language: c
 
 script:
 	make test
+
 install:
 	sudo apt-get install check
 	
